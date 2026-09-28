@@ -1,3 +1,1 @@
-rootProject.name = "monster-tamer"
-
-include("core", "persistence", "ui")
+rootProject.name = "MDPrpg130131"
